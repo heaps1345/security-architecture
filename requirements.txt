@@ -23,7 +23,7 @@ pyjwt==1.5.0
 jinja2==2.8
 
 # URL Parsing (vulnerable version)
-urllib3==1.21
+urllib3==2.5.0
 
 # XML Parser (vulnerable to XXE attacks)
 lxml==3.5.0
