@@ -5,7 +5,7 @@
 flask==0.12.2
 
 # HTTP Library (2014 version - ancient!)
-requests==2.6.0
+requests==2.32.4
 
 # YAML Parser (known vulnerability CVE-2017-18342)
 pyyaml==3.12
