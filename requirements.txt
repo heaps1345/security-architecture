@@ -20,7 +20,7 @@ cryptography==2.0
 pyjwt==1.5.0
 
 # Template Engine (old Jinja2)
-jinja2==2.8
+jinja2==3.1.6
 
 # URL Parsing (vulnerable version)
 urllib3==1.21
