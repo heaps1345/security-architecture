@@ -1,1 +1,7 @@
 .env *.csv *key*.txt config.py __pycache__/ node_modules/ *.pyc
+.env
+*.csv
+*key*.txt
+config.py
+_pycache_/
+node_modules/
