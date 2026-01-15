@@ -11,7 +11,7 @@ requests==2.6.0
 pyyaml==3.12
 
 # SQL Database (old version with security issues)
-sqlalchemy==1.0.0
+sqlalchemy==1.2.19
 
 # Crypto Library (outdated)
 cryptography==2.0
