@@ -50,7 +50,7 @@ python-dotenv==0.7.1
 httplib2==0.10.3
 
 # JSON Web Tokens
-authlib==0.10
+authlib==1.6.5
 
 # Database Driver
 psycopg2==2.7.1
